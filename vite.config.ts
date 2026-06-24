@@ -17,6 +17,7 @@ function figmaAssetResolver() {
 }
 
 export default defineConfig({
+  base: '/immersive-design-room/',
   plugins: [
     figmaAssetResolver(),
   

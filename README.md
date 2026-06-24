@@ -3,6 +3,10 @@
 
 This is a code bundle for Immersive Exhibition Room. The original project is available at https://www.figma.com/design/GphmkioKlfEG77UqMga5Sc/Immersive-Exhibition-Room.
 
+## Live Site
+
+https://miya2004.github.io/immersive-design-room/
+
 ## Run Locally
 
 People can run the project on their computer with:
